@@ -1,9 +1,3 @@
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.csproj.AssemblyReference.cache
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MvcTestingAppManifest.json
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.AssemblyInfoInputs.cache
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.AssemblyInfo.cs
-/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.csproj.CoreCompileInputs.cache
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/MyTestableApi.Api.deps.json
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/MyTestableApi.Api.runtimeconfig.json
@@ -407,6 +401,12 @@
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/MyTestableApi.Api.dll
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/bin/Debug/net7.0/MyTestableApi.Api.pdb
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.csproj.AssemblyReference.cache
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MvcTestingAppManifest.json
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.AssemblyInfoInputs.cache
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.AssemblyInfo.cs
+/home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.csproj.CoreCompileInputs.cache
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.csproj.CopyComplete
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/MyTestableApi.Tests.dll
 /home/yb/Bureau/projets/dot.net/MyTestableApi/MyTestableApi.Tests/obj/Debug/net7.0/refint/MyTestableApi.Tests.dll
